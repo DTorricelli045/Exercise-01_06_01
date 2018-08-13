@@ -307,7 +307,7 @@ div.inline option {
 }
 
 #billFName, #billLName, #delivFName, #delivLName, #billCity, #delivCity, #billPhone, #delivPhone {
-   width: 15em;
+   width: 20em;
 }
 
 #billStreet, #delivStreet, #billEmail, #delivEmail {
@@ -315,7 +315,7 @@ div.inline option {
 }
 
 #billZip, #delivZip {
-   width: 10em;
+   width: 20em;
 }
 
 #ccNum {
